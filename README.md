@@ -1,9 +1,8 @@
-<!DOCTYPE html>
 <html lang="ko">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>우주비행사 블랙홀 피하기</title>
+  <title> 블랙홀 피하기 </title>
   <style>
     :root {
       color-scheme: dark;
@@ -220,8 +219,8 @@
 </head>
 <body>
   <div class="game-shell">
-    <h1>우주비행사 블랙홀 피하기</h1>
-    <p class="intro">일반 상대성 이론을 바탕으로 시공간이 휘어진 우주를 누비세요. 여러 개의 블랙홀 주변에 남은 별의 잔해가 흩어져 있고, 그 잔해를 모을수록 포인트와 돈이 쌓입니다. 블랙홀에 닿으면 끝납니다.</p>
+    <h1>블랙홀 피하기</h1>
+    <p class="intro">시공간이 휘어진 우주를 누비세요. 여러 개의 블랙홀 주변에 남은 별의 잔해가 흩어져 있고, 그 잔해를 모을수록 돈이 쌓입니다. 블랙홀과 유성에 부딫히면 우주선이 파괴됩니다! </p>
     <div class="hud">
       <span>포인트: <strong id="points">0</strong></span>
       <span>돈: <strong id="money">0</strong></span>
